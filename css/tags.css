@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&display=swap');
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn:hover{
+    font-weight: bolder;
+}
+.btn{
+    color: white;
+    border-radius: 4px;
+    padding: 5px 10px;
+    background: #2370f4;
+    border: 1px solid black;
+    cursor: pointer;
+    font-family:  'Alkatra', cursive;;
+}
+.card h2{
+    font-family: 'Alkatra', cursive;
+}
+.lines{
+    font-family: 'Alkatra', cursive;
+}
+.my-1{
+    margin: 12px 0;
+}
+.center{
+    text-align: center;
+}
+.hdpd{
+    margin-left:  12px; ;
+}
+.itmg{
+    border: 2px solid black;
+}
